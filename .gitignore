@@ -26,3 +26,4 @@ stamp-h1
 *.pc
 /src/jansson_config.h
 *.exe
+*.user
